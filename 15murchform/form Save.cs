@@ -38,8 +38,16 @@ namespace _15murchform
             string lastNameText = textBox2.Text;
            
            label11.Text=firstNameText+lastNameText;
-            
-            
+
+            string m = textBox3.Text;
+            string d = textBox4.Text;
+            string Y = textBox5.Text;
+            string date = textBox3.Text + " " + textBox4.Text + " " + textBox3.Text;
+            label9.Text=date;
+
+
+
+
 
 
         }
@@ -55,6 +63,21 @@ namespace _15murchform
         }
 
         private void form_Save_Load(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
         {
 
         }

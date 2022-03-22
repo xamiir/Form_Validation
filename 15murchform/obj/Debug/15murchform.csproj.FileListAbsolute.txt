@@ -10,3 +10,15 @@ C:\Users\Eng Xamiir\source\repos\15murchform\15murchform\obj\Debug\15murchform.c
 C:\Users\Eng Xamiir\source\repos\15murchform\15murchform\obj\Debug\15murchform.exe
 C:\Users\Eng Xamiir\source\repos\15murchform\15murchform\obj\Debug\15murchform.pdb
 C:\Users\Eng Xamiir\source\repos\15murchform\15murchform\obj\Debug\_15murchform.form_Save.resources
+C:\Users\Eng Xamiir\Desktop\15murchform\15murchform\bin\Debug\15murchform.exe.config
+C:\Users\Eng Xamiir\Desktop\15murchform\15murchform\bin\Debug\15murchform.exe
+C:\Users\Eng Xamiir\Desktop\15murchform\15murchform\bin\Debug\15murchform.pdb
+C:\Users\Eng Xamiir\Desktop\15murchform\15murchform\obj\Debug\15murchform.csproj.AssemblyReference.cache
+C:\Users\Eng Xamiir\Desktop\15murchform\15murchform\obj\Debug\15murchform.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eng Xamiir\Desktop\15murchform\15murchform\obj\Debug\_15murchform.form_Save.resources
+C:\Users\Eng Xamiir\Desktop\15murchform\15murchform\obj\Debug\_15murchform.Form1.resources
+C:\Users\Eng Xamiir\Desktop\15murchform\15murchform\obj\Debug\_15murchform.Properties.Resources.resources
+C:\Users\Eng Xamiir\Desktop\15murchform\15murchform\obj\Debug\15murchform.csproj.GenerateResource.cache
+C:\Users\Eng Xamiir\Desktop\15murchform\15murchform\obj\Debug\15murchform.csproj.CoreCompileInputs.cache
+C:\Users\Eng Xamiir\Desktop\15murchform\15murchform\obj\Debug\15murchform.exe
+C:\Users\Eng Xamiir\Desktop\15murchform\15murchform\obj\Debug\15murchform.pdb
